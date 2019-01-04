@@ -25,3 +25,8 @@ publishDir="docs"
         icon = "twitter"
         title = "Twitter"
         url = "https://twitter.com/christianfjung"
+
+        [[params.links]]
+            icon = "linkedin"
+            title = "Linked In"
+            url = "https://linkedin.com/in/christianfjung"
