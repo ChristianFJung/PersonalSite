@@ -1,0 +1,25 @@
+baseURL = "christianfjung.com"
+languageCode = "en-us"
+title = "Christian F. Jung"
+theme= "hallo"
+
+[Author]
+    name = "Christian F. Jung"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:christianfjung@gmail.com"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/christianfjung"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/christianfjung"
