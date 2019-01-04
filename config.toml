@@ -1,8 +1,9 @@
-baseURL = "http://christianfjung.com"
+baseURL = "http://christianfjung.me/PersonalSite"
 canonifyURLs = true
 languageCode = "en-us"
 title = "Christian F. Jung"
 theme= "hallo"
+publishDir="docs"
 
 [Author]
     name = "Christian F. Jung"
