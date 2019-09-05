@@ -30,3 +30,9 @@ publishDir="docs"
         icon = "linkedin"
         title = "Linked In"
         url = "https://linkedin.com/in/christianfjung"
+
+  [[params.links]]
+        iconset = "fas"
+        icon = "file-download"
+        title = "Resume"
+        url = "images/resume.pdf"
