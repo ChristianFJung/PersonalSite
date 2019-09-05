@@ -1,4 +1,4 @@
-baseURL = "http://christianfjung.me/PersonalSite"
+baseURL = "http://christianfjung.com"
 canonifyURLs = true
 languageCode = "en-us"
 title = "Christian F. Jung"
@@ -35,4 +35,4 @@ publishDir="docs"
         iconset = "fas"
         icon = "file-download"
         title = "Resume"
-        url = "images/resume.pdf"
+        url = "/resume.pdf"

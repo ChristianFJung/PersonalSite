@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://christianfjung.me/PersonalSite/categories/</loc>
+    <loc>http://christianfjung.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://christianfjung.me/PersonalSite/</loc>
+    <loc>http://christianfjung.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://christianfjung.me/PersonalSite/tags/</loc>
+    <loc>http://christianfjung.com/tags/</loc>
     <priority>0</priority>
   </url>
   
