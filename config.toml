@@ -33,6 +33,6 @@ publishDir="docs"
 
   [[params.links]]
         iconset = "fas"
-        icon = "file-download"
+        icon = "address-card"
         title = "Resume"
         url = "/resume.pdf"
