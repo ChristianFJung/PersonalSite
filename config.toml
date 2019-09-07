@@ -14,7 +14,7 @@ publishDir="docs"
         iconset = "fas"
         icon = "envelope"
         title = "E-mail"
-        url = "mailto:christianfjung@gmail.com"
+        url = "mailto:cfj@christianfjung.com"
 
    # [[params.links]]
     #  icon = "github"
