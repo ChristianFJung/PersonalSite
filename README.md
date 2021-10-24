@@ -1,8 +1,5 @@
 # [ChristianFJung.com](http://christianfjung.com/)
 
-This is my personal website built with Hugo. It is a simple welcome page hosted on GitHub pages. 
+This project is deprecated. In 2020,I migrated my website and blog into 1 site at christianfjung.com
 
-
-
-My blog exists at the subdomain [blog.christianfjung.com](http://blog.christianfjung.com/). *([Corresponding Git Repo](https://github.com/ChristianFJung/blog.christianfjung.com))*
 
